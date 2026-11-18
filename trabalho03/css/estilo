@@ -1,0 +1,13 @@
+/* Ajustes finos para aproximar do modelo visual */
+body {
+  font-size: 0.95rem;
+}
+
+.card {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.form-label {
+  margin-bottom: 0.35rem;
+}
